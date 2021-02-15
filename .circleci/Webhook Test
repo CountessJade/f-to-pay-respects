@@ -1,0 +1,4 @@
+from discord_webhook import https://discord.com/api/webhooks/811007234061369405/__lr40Lr724v7X-sjOTYOov6D9nKNfnReKKKkRKKticjXxqg9TC1RX06B4k0vPDYaXHJ
+
+webhook = DiscordWebhook(url='https://github.com/CountessJade/f-to-pay-respects/new/circleci-project-setup/.circleci', content='Hewooooo')
+response = webhook.execute()
